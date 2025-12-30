@@ -1,15 +1,13 @@
 AI-Driven Patient Follow-up and Prediction System for Telemedicine
-Overview
 
+-Overview:
 This project focuses on building an AI-driven telemedicine support system that enhances patient care through automated follow-ups and predictive health analysis.
-
 The system analyzes medical conversations and patient data to predict health outcomes, identify patients who require follow-ups, and automatically schedule reminders. This significantly reduces the manual workload for healthcare professionals and improves overall patient engagement.
-
 The project demonstrates the practical application of Machine Learning, Natural Language Processing (NLP), and backend system integration in real-world healthcare environments.
 
-Problem Statement
+-Problem Statement
 
-In modern telemedicine platforms:
+In modern telemedicine platforms
 
 Doctors often struggle to manually track patient follow-ups
 
@@ -25,7 +23,9 @@ Predict potential health risks
 
 Automate follow-up scheduling
 
-Solution
+
+
+-Solution
 
 This project provides:
 
@@ -37,7 +37,7 @@ Integration with scheduling systems such as Cal.com
 
 A scalable and modular backend architecture
 
-Key Features
+-Key Features
 
 Predicts patient follow-up needs using machine learning models
 
@@ -49,21 +49,8 @@ Improves efficiency of telemedicine workflows
 
 Designed for scalability and reusability
 
-Project Architecture
-Patient Conversations / Health Data
-            ↓
-     NLP Processing Layer
-            ↓
-     Feature Extraction
-            ↓
-   Machine Learning Models
-     (KNN / Random Forest)
-            ↓
-  Follow-up Decision Engine
-            ↓
- Automated Scheduling (Cal.com API)
 
-Technologies Used
+-Technologies Used
 Machine Learning and Data Processing
 
 Python
