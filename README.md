@@ -1,84 +1,37 @@
-AI-Driven Patient Follow-up and Prediction System for Telemedicine
+AI-Driven Patient Follow-up and Prediction System
 
--Overview:
-This project focuses on building an AI-driven telemedicine support system that enhances patient care through automated follow-ups and predictive health analysis.
-The system analyzes medical conversations and patient data to predict health outcomes, identify patients who require follow-ups, and automatically schedule reminders. This significantly reduces the manual workload for healthcare professionals and improves overall patient engagement.
-The project demonstrates the practical application of Machine Learning, Natural Language Processing (NLP), and backend system integration in real-world healthcare environments.
+AI-powered telemedicine system that automates patient follow-ups and predicts health risks using machine learning and NLP.
 
--Problem Statement
+Key Highlights
 
-In modern telemedicine platforms
+Built an AI-driven system to analyze patient conversations and predict follow-up requirements
 
-Doctors often struggle to manually track patient follow-ups
+Applied Machine Learning (KNN, Random Forest) for health risk prediction
 
-Important health indicators may be missed
+Used NLP techniques to extract insights from medical conversations
 
-Manual monitoring increases workload and inefficiency
+Automated appointment scheduling using Cal.com API
 
-There is a need for an intelligent system that can:
+Designed a scalable and modular backend architecture
 
-Analyze patient conversations
+Improved efficiency of telemedicine workflows and reduced manual intervention
 
-Predict potential health risks
+Technologies Used
 
-Automate follow-up scheduling
+Languages & ML: Python, Pandas, NumPy, Scikit-learn
 
+Models: KNN, Random Forest
 
+NLP: Text preprocessing, feature extraction
 
--Solution
+Backend: REST APIs, Cal.com API
 
-This project provides:
+Tools: Git, GitHub, VS Code, Jupyter Notebook
 
-Automated patient follow-up predictions using machine learning models
+Impact
 
-NLP-based medical text analysis for extracting meaningful insights
+Reduced manual follow-up workload for healthcare professionals
 
-Integration with scheduling systems such as Cal.com
+Improved patient engagement and care continuity
 
-A scalable and modular backend architecture
-
--Key Features
-
-Predicts patient follow-up needs using machine learning models
-
-Analyzes medical conversations using natural language processing
-
-Automatically schedules reminders and follow-ups
-
-Improves efficiency of telemedicine workflows
-
-Designed for scalability and reusability
-
-
--Technologies Used
-Machine Learning and Data Processing
-
-Python
-
-Pandas, NumPy
-
-Scikit-learn
-
-KNN (K-Nearest Neighbors)
-
-Random Forest
-
-Natural Language Processing
-
-Text preprocessing
-
-Feature extraction from medical conversations
-
-Backend and Integration
-
-REST APIs
-
-Cal.com API for scheduling automation
-
-Development Tools
-
-Jupyter Notebook
-
-VS Code
-
-Git and GitHub
+Demonstrated real-world application of ML, NLP, and backend integration
